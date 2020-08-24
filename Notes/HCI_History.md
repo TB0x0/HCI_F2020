@@ -25,7 +25,9 @@ Batch processing and minimum human interaction. Machines were created to fulfill
 ## 1945 - 1955  
 
 **Managers**: specified the programs to be written and distributed the output
+
 **Programmers**: worked with scientists to generate executable code for task
+
 **Operators**: load by setting switches, positioning dials, and connecting cables
 
 These occupations became a major focus of HCI research. It centered on Human Factors, (Management) Information Systems, and Computer Science.
@@ -74,7 +76,20 @@ Some very important demos take place in this time period.
 
 ## 1965 - 1980
 
-Prior to personal computing •Business use-cases •Increased time-sharing (mainframes) •Layered set of “users” •“HCI” research group formations •Computer Science as a field •Artificial intelligence, graphics, input devices, etc. •Libraries incorporate computing as information science1965 - 1980In 1970 at Loughborough University, Brian Shackel founded the Human Sciences and Advanced Technology (HU- SAT) center, devoted to ergonomics research and emphasizing HCIThe Computer Systems Technical Group (CSTG) of the Human Factors Society was formed in 1972 In 1970, Xerox Palo Alto Research Center (PARC) was created to develop new computer hardware, programming languages, and programming environmentsThe first university computer science departments formed in the mid-1960s—————————-1965 - 1980-businesses start to embrace computers-computer science as a field emerges (not just other fields broadening)-AI immediately pops-up-focused on rule-based systems (expert systems)-focused on symbolic reasoning (not statistical inference like today)-library science comes back to the party-HCI groups start to emerge, people focused on user and machine interactions
+Prior to personal computing
+
+The first university computer science departments formed in the mid-1960s, businesses embrace computers, AI is developed, and HCI groups emerge.
+
+- Increased time-sharing (mainframes)
+- Layered set of “users”
+- Artificial intelligence, graphics, input devices, etc.
+- Libraries incorporate computing as information science
+
+In 1970 at Loughborough University, Brian Shackel founded the Human Sciences and Advanced Technology (HU- SAT) center, devoted to ergonomics research and emphasizing HCI
+
+The Computer Systems Technical Group (CSTG) of the Human Factors Society was formed in 1972
+
+In 1970, Xerox Palo Alto Research Center (PARC) was created to develop new computer hardware, programming languages, and programming environments
 
 
 ## 1980 - 1985
