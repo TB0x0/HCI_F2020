@@ -2,7 +2,7 @@
 Crowdsourced notes for for my Human Computer Interaction class Fall 2020
 
 ## Contributing  
-*Before committing all identifiable information must ne scrubbed*
+*Before committing all identifiable information must be scrubbed*
 
 You can either submit a pull request or use the issues tab to point out discrepancies or ask to add information.
 
