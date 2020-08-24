@@ -4,11 +4,7 @@ Crowdsourced notes for for my Human Computer Interaction class Fall 2020
 ## Contributing  
 *Before committing all identifiable information must ne scrubbed*
 
-### Option 1:  
-Submit a pull request with your edit
-
-### Option 2:  
-Use the issues tab to point out discrepancies or additional information
+You can either submit a pull request or use the issues tab to point out discrepancies or ask to add information.
 
 
 ## Table of Contents  
