@@ -94,16 +94,58 @@ In 1970, Xerox Palo Alto Research Center (PARC) was created to develop new compu
 
 ## 1980 - 1985
 
-The focus centered on so-called 'novice use.' The initial experience is significant to people who can choose whether or not to use a system, so it was important for vendors developing software for them.Although highly respected by CHI cognitive psychologists, these models did not address discretionary, novice use. They focused on the repetitive expert use studied in Human Factors. GOMS was explicitly positioned to counter the stimulus-response bias of human factors research:CHI researchers and developers, wanting to identify with 'hard' science and engineering, adopted the terms 'cogni- tive engineering' and 'usability engineering.'  it would be years before CHI loosened its identification with engineer- ing enough to welcome disciplines such as ethnography and design.Early CHI conferences had a few papers on speech and language, cognitive modeling, knowledge- based help, and knowledge elicitation, but AI was not a significant focus.————-1980 - 1985
--more business use of smaller computers-Xerox Star appears in 1981-first mainstream “desktop” computer-WIMP-windows, icons, menus, pointers-try selling it, not a success -automating office tasks-SIGCHI is created in 1982-an Association of Computing Machinery (ACM) -special interest group (SIG)-focused on computer human interaction (CHI), pronounced like greek letter (ka-eye)-uh-oh, why are these letters in a different order?-these things happen, it’s ok.-still the TOP annual international conference in the field-CHI conference is VERY large now with many sub-fields-initially very focused on engineering side, less social science approach-not the case anymore -Human factors and CHI diverge again  -Also an AI summer (rapid AI development) happening in this time-neural networks are the big new thing-predictably HCI related areas get less attention for a bit-research money is limited and AI seems really promising-1984, Apple releases the Macintosh-it incorporates WIMP approach-it is a lot like the Xerox Star-it does much better in the commercial market
+Focus was on 'novice use.' The initial experience is significant to people who can choose whether or not to use a system, so it was important for vendors developing software for them.
+
+GOMS was explicitly positioned to counter the stimulus-response bias of human factors research: CHI researchers and developers, wanting to identify with 'hard' science and engineering, adopted the terms 'cognitive engineering' and 'usability engineering.'
+
+It would be years before CHI loosened its identification with engineering enough to welcome disciplines such as ethnography and design. Early CHI conferences had a few papers on speech and language, cognitive modeling, knowledge-based help, and knowledge elicitation, but AI was not a significant focus.
+
+- More business use of smaller computers
+- Xerox Star appears in 1981-first mainstream “desktop” computer. Used WIM(windows, icons, menus, pointers). It was not very successful.
+- SIGCHI is created in 1982 as an Association of Computing Machinery (ACM) special interest group (SIG) focused on computer human interaction (CHI)
+- Still the TOP annual international conference in the field CHI conference and is VERY large now with many sub-fields. It initially focused on engineering side, less social science approach, but that's not the case anymore
+
+- Neural networks cause an AI Summer so interest and funding in HCI falls.
+
+- 1984, Apple releases the Macintosh which incorporates WIMP and is much like the xerox star, but does much better in the market.
 
 ## 1985 - 1995
 
-GUIs Win! •GUIs initially controversial in CHI •Windows 3.0 in 1990 •Computer Supported Cooperative Work  •Participatory Design & Ethnography •Library schools shifted to schools of Information 1985 - 1995GUI success in late 1985 immediately transformed CHI, but only after Windows 3.0 succeeded in 1990 did GUIs influence the government agencies and business organizations that were the focus of HF&E and IS research.Computer Supported Cooperative WorkParticipatory design critiqued IS systems development approaches for non-discretionary users, yet it resonated with CHI research- ers who had a commercial application focus on discretionary use. Lucy Suchman managed a Xerox PARC group that presented studies of workplace activity at CSCWhrough the 1990s, several schools dropped 'Library' and became schools of Information ——————-1985 - 1995-This is when widespread adoption of GUIs (and WIMP) happens-Several options: Apple, Microsoft, some others-GUI success wins the interest HCI field-Windows 3.0 in 1990 seals the deal for governments and many businesses
--Desktops (as we know them today) are even spreading into homes -Research starts to focus on multi-user experiences -HCI / CHI begins to focus more on the users -methods now more frequently include thoroughly understanding users rather than just engineering more efficient mechanisms -less library science, they go back towards infoscience
+GUIs Win!
+- GUIs initially controversial in CHI
+- Windows 3.0 in 1990
+- Computer Supported Cooperative Work  
+- Participatory Design & Ethnography
+- Library schools shifted to schools of Information
+
+GUI success in late 1985 immediately transformed CHI. Only after Windows 3.0 succeeded in 1990 did GUIs influence the government agencies and business organizations that were the focus of HF&E and IS research. Computer Supported Cooperative Work Participatory design critiqued IS systems development approaches for non-discretionary users, yet it resonated with CHI researchers who had a commercial application focus on discretionary use.
+
+Lucy Suchman managed a Xerox PARC group that presented studies of workplace activity at CSCW through the 1990s, several schools dropped 'Library' and became schools of Information. This is when widespread adoption of GUIs (and WIMP) happens. Several options are available: Apple, Microsoft, some others
+
+- GUI success wins the interest of the HCI field
+- Windows 3.0 in 1990 seals the deal for governments and many businesses
+- Desktops (as we know them today) are spreading into homes
+- Research starts to focus on multi-user experiences
+- HCI / CHI begins to focus more on the users
+- Methods now more frequently include thoroughly understanding users rather than just engineering more efficient mechanisms
+- Less library science, they go back towards info science
 
 
 ## 1995 - Present
 
-Rise of the Internet •CHI pursues frontier •Web content •Widespread real-time communication •From engineering to design •From design to experience 1995 - PresentAs an application matured and use became routine, it got less attention. When email and word processing ceased being discretionary for most of us, CHI researchers moved to the discretionary use frontier of the moment: Web de- sign, ubiquitous and mobile computing, social computing, Wikipedia use, and so on.The study of enjoyment was labeled “funology” lest someone think we were having too good a time (Blythe et al., 2003).——————-1995 - present-now CHI lives on the frontier -if it is accepted and in broad use, it loses its appeal to many CHI researchers-always pushing the boundary, novelty is a very important part of CHI from here to present-will look at recent CHI conference research to give an idea-more of the computers are connected now!-real-time communication is possible for many people-CHI focus moves beyond engineering (make it work) to usability (make it better to use)-as we get closer to present day, field focuses more on “user experience” rather than just usability-user experience (UX) encompasses more of the user’s feelings, context, etc.
--we can make things that work, we can make things that are easy to use, so now focus more on facilitating a more broad experience -much more on this later
+Rise of the Internet
+- CHI pursues frontier
+- Web content
+- Widespread real-time communication
+- From engineering to design
+- From design to experience
+
+As an application matured and use became routine, it got less attention. When email and word processing ceased being discretionary for most of us, CHI researchers moved to the discretionary use frontier of the moment: Web design, ubiquitous and mobile computing, social computing, Wikipedia use, and so on.The study of enjoyment was labeled “funology” lest someone think we were having too good a time (Blythe et al., 2003).
+
+Now CHI lives on the frontier. If it is accepted and in broad use, it loses its appeal to many CHI researchers
+
+- Always pushing the boundary, novelty is a very important part of CHI from here to present
+- More computers are connected now! Real-time communication is possible for many people
+- CHI focus moves beyond engineering (make it work) to usability (make it better to use)
+- As we get closer to present day, field focuses more on “user experience” rather than just usability. User experience (UX) encompasses more of the user’s feelings, context, etc.
+- We can make things that work, we can make things that are easy to use, so now focus more on facilitating a more broad experience
