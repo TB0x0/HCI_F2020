@@ -11,3 +11,4 @@ You can either submit a pull request or use the issues tab to point out discrepa
 
 - [Introduction](/Notes/intro.md)
 - [The History of HCI](/Notes/HCI_History.md)
+- [Sensation and Perception](/Notes/sensandpercep.md)
