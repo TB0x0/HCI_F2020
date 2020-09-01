@@ -28,3 +28,16 @@ Perception and reality are frequently different. It is how users connect to a sy
 - Perception is biased
 
 ## How is Perception Studied
+
+- Through pushing its limits and finding where it breaks. Like optical illusions.
+
+- Through individuals with impairments and differences. Like patients with damage to specific portions of the brain or people who perceive differently.
+
+- Through monitoring signals during perception. Brain imaging studies.
+
+
+## Visual Perception Biases
+
+- Exist at a low level
+- Result of how our vision system has evolved (physiology and signal processing)
+- Demonstrate gap between perception and reality.
