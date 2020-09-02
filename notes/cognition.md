@@ -12,3 +12,11 @@ Modern cognitive psychology emerged around 1956 founded on information processin
 - Models should explain and predict
 - Models must be testable
 - *Parsimony:* Simpler theories are better
+
+## Approaches and Tools
+
+- Behavioral observation
+- Cognitive impaired patient studies
+- Cognitive neuroscience (fMRI, EEG, fNIRS)
+
+## Attention
