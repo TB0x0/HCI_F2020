@@ -47,3 +47,21 @@ Perception and reality are frequently different. It is how users connect to a sy
 In the photo below the red vertical lines are parallel even though they appear canted.
 
 <img src="/res/percep1.png" />
+
+## Design Considerations
+
+- Peripheral vision is strong. Put objects around the focus element.
+
+- Color vision is limited. Avoid subtle color differences. Consider contrast, hue, and luminosity
+
+- Create a clear visual hierarchy by organizing and prioritizing page contents.
+
+## Gestalt Principles of Visual Perception
+
+- Proximity - Items that are closer appear grouped  
+- Similarity - Items are grouped according to similar characteristics (color, size)  
+- Continuity - People tend to see continuous forms  
+- Closure - People tend to see whole, closed objects and not fragments  
+- Symmetry - People tend to see simple figures rather than complex ones  
+- Figure/ground - People tend to separate foreground from background  
+- Common fate - Things moving in the same direction are probably in the same group  
