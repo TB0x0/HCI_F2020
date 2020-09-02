@@ -64,4 +64,28 @@ In the photo below the red vertical lines are parallel even though they appear c
 - Closure - People tend to see whole, closed objects and not fragments  
 - Symmetry - People tend to see simple figures rather than complex ones  
 - Figure/ground - People tend to separate foreground from background  
-- Common fate - Things moving in the same direction are probably in the same group  
+- Common fate - Things moving in the same direction are probably in the same group
+
+## Fitts's Law
+
+<img src="/res/fittslaw.png" />
+- The larger the target on screen and closer the starting point the faster you can point to it.
+
+- Intuitive finding, but target size increases mean other increases are less influential.
+
+## Time Perception
+
+- Perceived responsiveness is more important than actual responsiveness
+
+*Examples*
+
+- Acknowledge input immediately
+- Indicate how long an action will take
+- Allow user to do other things while waiting
+- Manage events intelligently
+- Anticipate likely requests
+
+## Haptics
+
+- Involve sensing at skin, muscle, and bone
+- Basic applications are mobile, wearable, and input devices
