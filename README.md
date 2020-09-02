@@ -9,7 +9,7 @@ You can either submit a pull request or use the issues tab to point out discrepa
 
 ## Table of Contents  
 
-- [Introduction](/Notes/intro.md)
-- [The History of HCI](/Notes/HCI_History.md)
-- [Sensation and Perception](/Notes/sensandpercep.md)
-- [Cognition](/Notes/cognition.md)
+- [Introduction](/notes/intro.md)
+- [The History of HCI](/notes/HCI_History.md)
+- [Sensation and Perception](/notes/sensandpercep.md)
+- [Cognition](/notes/cognition.md)
