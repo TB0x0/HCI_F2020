@@ -41,3 +41,9 @@ Perception and reality are frequently different. It is how users connect to a sy
 - Exist at a low level
 - Result of how our vision system has evolved (physiology and signal processing)
 - Demonstrate gap between perception and reality.
+
+*Example:*
+
+In the photo below the red vertical lines are parallel even though they appear canted.
+
+<img src="/res/percep1.png" />
