@@ -27,6 +27,14 @@ Modern cognitive psychology emerged around 1956 founded on information processin
 
 **Major Characteristics**
 
-- Focalization - Implies interest in selectivity (how we decide what stimuli is interesting)
+- Focalization and concentration - Implies interest in selectivity (how we decide what stimuli is interesting)
 
-- Concentration - 
+## Memory Models
+
+[Baddeley and Hitch 1974](https://en.wikipedia.org/wiki/Baddeley%27s_model_of_working_memory)
+
+- Working Memory - finite area, can hold retrieved data or perceived data, contextual, sensory stimuli store (low level representations)
+
+- Long-term Memory - high capacity, lasts a long time, retrieval is sometimes difficult.
+
+*Recall Performance:* The best things we remember are the first (primacy) and the last (recency) things we interacted with.
