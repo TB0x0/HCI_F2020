@@ -20,3 +20,13 @@ Modern cognitive psychology emerged around 1956 founded on information processin
 - Cognitive neuroscience (fMRI, EEG, fNIRS)
 
 ## Attention
+
+- How do people attend to stimuli (does not imply consciousness or awareness)
+- Bottleneck theories gave way to capacity theories
+- HCI needs to be aware of people's limited attention spans
+
+**Major Characteristics**
+
+- Focalization - Implies interest in selectivity (how we decide what stimuli is interesting)
+
+- Concentration - 
