@@ -47,4 +47,18 @@ Modern cognitive psychology emerged around 1956 founded on information processin
 
 [Relevant article](https://en.wikipedia.org/wiki/Dual_process_theory)
 
-Splits human thought into two systems and may explain
+Splits human thought into two systems. One side is quick and responsive, the other is slow and deliberate.
+
+**System 1**
+- Implicit
+- Unconscious
+- Automatic
+- Involuntary (mostly)
+
+**System 2**
+- Explicit
+- Conscious
+- Controlled
+- Voluntary
+
+## Cognitive Bias
