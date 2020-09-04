@@ -37,4 +37,14 @@ Modern cognitive psychology emerged around 1956 founded on information processin
 
 - Long-term Memory - high capacity, lasts a long time, retrieval is sometimes difficult.
 
+  - Episodic - Memory about experiences
+  - Procedural - Algorithms we remember for doing stuff (tying shoes)
+  - Semantic - The meaning of perceptions and how they relate
+
 *Recall Performance:* The best things we remember are the first (primacy) and the last (recency) things we interacted with.
+
+## Dual Process Theory
+
+[Relevant article](https://en.wikipedia.org/wiki/Dual_process_theory)
+
+Splits human thought into two systems and may explain
