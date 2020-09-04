@@ -73,3 +73,7 @@ Splits human thought into two systems. One side is quick and responsive, the oth
   - Base rate fallacy: failing to consider base rates within the population
 
 **Availability Heuristic**
+- Judge the frequency of something based on ease of retrieval of example from own memory or experience
+
+**Conjunction Rule**
+- The probability of two events together can't be greater than the probability of either single event
