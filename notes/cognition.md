@@ -62,3 +62,14 @@ Splits human thought into two systems. One side is quick and responsive, the oth
 - Voluntary
 
 ## Cognitive Bias
+
+**Belief Bias** - Judgment based on prior belief rather than logic
+
+**Confirmation Bias** - We prefer to confirm a hypothesis rather than disprove
+
+**Representative Heuristic**
+- A sample is representative if it looks like the population
+  - Small sample fallacy: assuming a small sample will be representative of the population
+  - Base rate fallacy: failing to consider base rates within the population
+
+**Availability Heuristic**
