@@ -13,3 +13,4 @@ You can either submit a pull request or use the issues tab to point out discrepa
 - [The History of HCI](/notes/HCI_History.md)
 - [Sensation and Perception](/notes/sensandpercep.md)
 - [Cognition](/notes/cognition.md)
+- [Don Norman and Cognition](/notes/dnorman.md)
