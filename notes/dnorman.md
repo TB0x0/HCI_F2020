@@ -33,3 +33,11 @@ Addresses many topics including:
   - Make destructive action hard
   - Discovery is easy, correction is easy
   - Don't treat actions as error
+
+## The Paradox of Automation
+
+Don Norman points out many faults of automation in his books.
+
+- Automation fails often and without warning
+- It typically leaves humans out of the loop which can lead to bad outcomes
+- The goal is for humans and machines to collaborate (not for everything to be left to machine)
