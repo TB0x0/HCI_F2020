@@ -77,3 +77,11 @@ Splits human thought into two systems. One side is quick and responsive, the oth
 
 **Conjunction Rule**
 - The probability of two events together can't be greater than the probability of either single event
+
+## HCI Guidelines for Addressing Bias
+
+- Provide all options
+- Help people find alternatives
+- Provide unbiased data
+- Don't make people calculate
+- Check assertions and assumptions
